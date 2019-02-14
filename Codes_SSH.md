@@ -22,4 +22,6 @@ Echo: Crea dentro de un archivo X pedido
     echo "Hello" >> Hello.txt 
     Creará dentro de Hello.txt el texto entre comillas.
 
+CAT: Muestra los datos que están dentro de un archivo. 
+Ejem: CAT texto.txt 
 
