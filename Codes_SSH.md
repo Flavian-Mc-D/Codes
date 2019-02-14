@@ -16,6 +16,8 @@ mkdir: Make Directory
 
 Touch: Creates a file 
 
+Ejem: touch file.txt
+
 Echo: Crea dentro de un archivo X pedido
 
     echo "Hello" >> Hello.txt 
