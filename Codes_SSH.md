@@ -17,7 +17,6 @@ mkdir: Make Directory
 Touch: Creates a file 
 
 Echo: Crea dentro de un archivo X pedido
-
     echo "Hello" >> Hello.txt 
     Creará dentro de Hello.txt el texto entre comillas.
 
