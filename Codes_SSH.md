@@ -23,5 +23,9 @@ Echo: Crea dentro de un archivo X pedido
     Creará dentro de Hello.txt el texto entre comillas.
 
 CAT: Muestra los datos que están dentro de un archivo. 
-Ejem: CAT texto.txt 
+Ejem: CAT texto.txt
+
+CP: COPY
+    CP folder/file.txt destinationfile/destinationName(opcional)
+    CP M*.TXT/ DestinationFolder/ En este caso copia todos los archivos de la carpeta donde se encuentre simpre que comeiencen con M y que sean .txt
 
