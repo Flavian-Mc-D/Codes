@@ -15,10 +15,8 @@ print
 
 print mi_variable 
 
-<<<<<<< HEAD
 nueva linea de prueba
 
 segunda linea 
 
-=======
->>>>>>> 7dbd191263213b71e8f4f7e41324a5c3557a452f
+py3 es el formato que busco
