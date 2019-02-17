@@ -107,3 +107,26 @@ mi_lista.append('Nuevo Dato')
 print (mi_lista)
 #['cadena de texto', 15, 3.8, 'otro dato', 25, 'Nuevo Dato']
 
+"""
+Diccionarios 
+
+Mientras que a las listas y tuplas se accede 
+solo y únicamente por un número de índice, 
+los diccionarios permiten utilizar una clave para declarar y 
+acceder a un valor: 
+"""
+
+mi_diccionario = {'clave_5' : 'valor_1', 'clave_6' : 'valor_6'}
+print  (mi_diccionario['clave_5'])
+#valor_1
+
+#Es posible eliminar cosas de los diccionarios. 
+
+del(mi_diccionario['clave_6'])
+
+#Tambien es posible, igual que en las listas 
+#modificar los valores de los datos
+mi_diccionario['clave_6'] = 'Nuevo Valor de clave_6'
+
+print (mi_diccionario['clave_6'])
+#Nuevo Valor de clave_6
