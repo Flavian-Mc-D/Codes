@@ -130,5 +130,3 @@ mi_diccionario['clave_6'] = 'Nuevo Valor de clave_6'
 
 print (mi_diccionario['clave_6'])
 #Nuevo Valor de clave_6
-
-
