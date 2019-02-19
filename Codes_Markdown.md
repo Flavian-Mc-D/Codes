@@ -144,3 +144,4 @@ To add a link to an image, enclose the Markdown for the image in brackets, and t
 
 [![Salto Ángel][("Salto Ángel - venezuela")](https://trilhandomontanhas.com/arquivos/2018-10/salto-angel-venezuela-media.jpg) 
 
+[![Salto Ángel]("" "Salto Ángel")](https://trilhandomontanhas.com/arquivos/2018-10/salto-angel-venezuela-media.jpg)
