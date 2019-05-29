@@ -1,0 +1,13 @@
+Databricks File System - DBFS
+
+https://docs.databricks.com/user-guide/dbfs-databricks-file-system.html
+
+Databricks File System (DBFS) is a distributed file system installed on Databricks clusters. Files in DBFS persist to S3, so you won’t lose data even after you terminate a cluster.
+
+You can access files in DBFS using the Databricks CLI, DBFS API, Databricks Utilities, Spark APIs, and local file APIs.
+
+On your local computer you access DBFS using the Databricks CLI or DBFS API. In a Spark cluster you access DBFS using Databricks Utilities, Spark APIs, or local file APIs.
+
+DBFS allows you to mount S3 buckets so that you can seamlessly access data without requiring credentials.
+
+In the past, DBFS used an S3 bucket created in the Databricks account to store data that is not stored on a DBFS mount point. At your request, Databricks can switch this over to an S3 bucket in your own account.
